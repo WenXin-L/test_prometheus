@@ -13,7 +13,7 @@ node_exporter地址：testnginx.miaovps.com:9100
 
 blackbox_exporter地址：testnginx.miaovps.com:9115
 
-##nginx.conf
+## nginx.conf
 
 NGINX配置文件。
 
